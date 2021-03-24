@@ -1,6 +1,34 @@
 # Banaji_Eye_Care
 A Simple Mobile Application  for Banaji Eye care,Mumbai,India. Code cannot upload due to security reason.Sharing design and flow of the Application.
 
+# About the Project
+Keeping track of appointments, current news, finances, and managing travel arrangements are all realistic requirements for modern ophthalmologists. by this app Patients can take a self-guided vision screening, locate an eyecare provider near them and make an appointment–directly from the app!
+
+
+# Application
+
+* Clinical calculator
+
+* Vision testing by various means
+
+* Appointments of the patient with the doctor
+
+* Social networking
+
+* Patient record managemen
+
+* location of clinics in a particular area
+
+* Entrance examination preparation
+
+* Telemedicine.
+
+# Build With
+
+* Swift
+* Cocoa Pods
+* MySQL
+* SQlite
 
 
 
