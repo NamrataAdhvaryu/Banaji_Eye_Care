@@ -35,8 +35,8 @@ Keeping track of appointments, current news, finances, and managing travel arran
 # Screen shots
 
 ![Screenshot 2021-03-24 at 4 17 14 PM (2)](https://user-images.githubusercontent.com/70209068/112526564-785ec200-8d78-11eb-9a43-29dcd2b8cc70.png)
-![Screenshot 2021-03-25 at 2 10 05 PM (2)](https://user-images.githubusercontent.com/70209068/112526570-7a288580-8d78-11eb-81d2-a2e5276c4dcb.png)
 ![Screenshot 2021-03-24 at 3 59 27 PM (2)](https://user-images.githubusercontent.com/70209068/112526576-7eed3980-8d78-11eb-9585-50a224ae1218.png)
+![Screenshot 2021-03-25 at 2 10 05 PM (2)](https://user-images.githubusercontent.com/70209068/112526570-7a288580-8d78-11eb-81d2-a2e5276c4dcb.png)
 ![Screenshot 2021-03-25 at 2 12 23 PM (2)](https://user-images.githubusercontent.com/70209068/112526602-844a8400-8d78-11eb-91be-1586838244c2.png)
 ![Screenshot 2021-03-25 at 2 12 00 PM (2)](https://user-images.githubusercontent.com/70209068/112526612-86144780-8d78-11eb-8756-385a2b0ae796.png)
 ![Screenshot 2021-03-25 at 2 12 40 PM (2)](https://user-images.githubusercontent.com/70209068/112526636-8b719200-8d78-11eb-93c0-e83b0d1d44d5.png)
