@@ -34,5 +34,13 @@ Keeping track of appointments, current news, finances, and managing travel arran
 
 # Screen shots
 
-![Screenshot 2021-03-25 at 2 10 05 PM (2)](https://user-images.githubusercontent.com/70209068/112523526-384a1000-8d75-11eb-82b6-1c602ed41426.png)
-![Screenshot 2021-03-24 at 3 59 27 PM (2)](https://user-images.githubusercontent.com/70209068/112380376-b51ab280-8cbf-11eb-9638-e3410151f440.png)![Screenshot 2021-03-24 at 4 13 43 PM (2)](https://user-images.githubusercontent.com/70209068/112380388-b815a300-8cbf-11eb-80c7-a9fc98aa4660.png)![Screenshot 2021-03-24 at 4 13 48 PM (2)](https://user-images.githubusercontent.com/70209068/112380407-bc41c080-8cbf-11eb-8541-5dbae851fcd1.png)![Screenshot 2021-03-24 at 4 17 14 PM (2)](https://user-images.githubusercontent.com/70209068/112380418-bf3cb100-8cbf-11eb-938a-bf08eeb08321.png)![Screenshot 2021-03-24 at 4 19 01 PM (2)](https://user-images.githubusercontent.com/70209068/112380437-c19f0b00-8cbf-11eb-8ca7-3177f06f06aa.png)![Screenshot 2021-03-24 at 4 19 57 PM (2)](https://user-images.githubusercontent.com/70209068/112380445-c499fb80-8cbf-11eb-9d15-0a98dc2d0022.png)![Screenshot 2021-03-24 at 4 20 29 PM (2)](https://user-images.githubusercontent.com/70209068/112380453-c6fc5580-8cbf-11eb-9f69-2f4cbd714719.png)![Screenshot 2021-03-24 at 4 21 42 PM (2)](https://user-images.githubusercontent.com/70209068/112380465-c9f74600-8cbf-11eb-9b32-4e9681b1c770.png)![Screenshot 2021-03-24 at 4 22 14 PM (2)](https://user-images.githubusercontent.com/70209068/112380475-cc59a000-8cbf-11eb-9447-9a0efbfe41f1.png)
+![Screenshot 2021-03-24 at 4 17 14 PM (2)](https://user-images.githubusercontent.com/70209068/112526564-785ec200-8d78-11eb-9a43-29dcd2b8cc70.png)
+![Screenshot 2021-03-25 at 2 10 05 PM (2)](https://user-images.githubusercontent.com/70209068/112526570-7a288580-8d78-11eb-81d2-a2e5276c4dcb.png)
+![Screenshot 2021-03-24 at 3 59 27 PM (2)](https://user-images.githubusercontent.com/70209068/112526576-7eed3980-8d78-11eb-9585-50a224ae1218.png)
+![Screenshot 2021-03-25 at 2 12 23 PM (2)](https://user-images.githubusercontent.com/70209068/112526602-844a8400-8d78-11eb-91be-1586838244c2.png)
+![Screenshot 2021-03-25 at 2 12 00 PM (2)](https://user-images.githubusercontent.com/70209068/112526612-86144780-8d78-11eb-8756-385a2b0ae796.png)
+![Screenshot 2021-03-25 at 2 12 40 PM (2)](https://user-images.githubusercontent.com/70209068/112526636-8b719200-8d78-11eb-93c0-e83b0d1d44d5.png)
+![Screenshot 2021-03-25 at 2 32 17 PM (2)](https://user-images.githubusercontent.com/70209068/112526647-8e6c8280-8d78-11eb-9df4-6f33c55d7d52.png)
+![Screenshot 2021-03-25 at 2 11 18 PM (2)](https://user-images.githubusercontent.com/70209068/112526675-95939080-8d78-11eb-9842-0469f24ef07d.png)
+![Screenshot 2021-03-25 at 2 33 07 PM (2)](https://user-images.githubusercontent.com/70209068/112526711-a0e6bc00-8d78-11eb-9fe1-b69e77ac1118.png)
+![Screenshot 2021-03-25 at 2 11 06 PM (2)](https://user-images.githubusercontent.com/70209068/112526723-a47a4300-8d78-11eb-9a97-fbb3469d748e.png)
